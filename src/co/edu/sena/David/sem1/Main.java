@@ -20,7 +20,7 @@ public class Main {
 
         // 4. Demostrar Setter (marcar como vacunado)
         luna.setVaccinated(true);
-        System.out.println("\n¡Mascota " + luna.name + " marcada como vacunada!");
+        System.out.println("\n¡Mascota " + luna.getName() + " marcada como vacunada!"); // USAR ESTO
 
         // 5. Mostrar información actualizada
         luna.showInfo();

@@ -5,6 +5,9 @@ public class AdoptablePet {
     private String code;
     private String name;
     private String species;
+    public String getName() {
+        return this.name;
+    }
     private int ageInMonths;
     private double weightKg;
     private boolean isVaccinated;
