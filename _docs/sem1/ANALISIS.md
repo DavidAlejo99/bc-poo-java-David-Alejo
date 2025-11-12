@@ -12,7 +12,7 @@
 
 **Nombre del negocio:** Huellitas Felices
 **Tipo:** Centro de Adopción de Animales
-**Descripción:** Huellitas Felices es un centro de protección animal que gestiona el rescate, cuidado y adopción responsable de perros y gatos. El sistema se enfoca en modelar la informacion de las mascotas disponibles y los adoptantes.
+**Descripción:** Huellitas Felices es un centro de protección animal que gestiona el rescate, cuidado y adopción responsable de perros y gatos. El sistema se enfoca en modelar la información de las mascotas disponibles y los adoptantes.
 
 ***
 
