@@ -19,7 +19,7 @@ public class AdoptablePet {
         this.isVaccinated = false; // Por defecto, asumimos que no está vacunado
     }
 
-    // Metodo 1: Muestra toda la informacion de la mascota
+    // Metodo 1: Muestra toda la información de la mascota
     public void showInfo() {
         System.out.println("=== FICHA DE MASCOTA ===");
         System.out.println("Código: " + this.code);
